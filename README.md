@@ -4,10 +4,9 @@ A dedicated Software Engineer with 1.5 years of experience in Flutter developmen
 
 
 
-## For the Future
-* Connect with LinkedIn to get Summary, Skills, Education and Experience
-* Connect with Github to get Customized Pins, Profile Details
-* Personalization Page to edit everything in once place.
+## Connect
+* Connect with LinkedIn :-  https://www.linkedin.com/in/abu-bakkar-saif/
+
 
 
 [Firebase]: https://firebase.google.com/docs/hosting/quickstart
