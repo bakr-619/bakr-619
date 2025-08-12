@@ -6,7 +6,7 @@ A dedicated Software Engineer with good years of experience in software devlopem
 
 ## Connect
 * Connect with LinkedIn :-  https://www.linkedin.com/in/abu-bakkar-saif/
-* lookup to prtofolio  :-   https://abubakkar.vercel.app
+* My prtofolio  :-   https://abubakkar.vercel.app
 
 
 
